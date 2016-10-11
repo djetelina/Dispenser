@@ -55,20 +55,6 @@ Graphical User Interface
 
 Toga will be used - uses native stuff of the OS, yay!
 
-TODO
-----
-
-- ~~Gather feedback~~
-- Explore suggestions gathered (not only) from feedback
-    - Docker
-    - Cookiecutter(very likely), Paste (http://docs.pylonsproject.org/projects/pylons-webframework/en/latest/advanced_pylons/creating_paste_templates.html)
-    - Briefcase (PyBee)
-    - subprocess.Popen+pexpect alternatives? Gonna need PIPEs, want the user to be able to input something if unexpected. 
-- Start creating issues (tickets) for people that want to start contributing
-- ~~Name the project~~
-- Write a better README so that others can come and start contributing instead of reading my thoughts and trying to make sense of tham
-- Create a makefile/script to generate dev environment (unless pip install -rrequirements.txt is enough)
-
 DEVELOPMENT
 -----------
 
