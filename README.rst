@@ -3,6 +3,13 @@ Dispenser
 
 Dispenser inspires to be a project management tool, create a skeleton, manage metadata, help with tests.
 
+INACTIVE
+--------
+
+Dispenser is out of my reach for now, despite people liking the idea, 
+I won't be able to finish the project (not now anyway). Thanks for your suppoert, 
+if someone wants to take it and make their own, feel free!
+
 Goal
 ----
 
